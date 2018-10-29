@@ -17,28 +17,28 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
-![]<https://imgur.com/YqhPq6O.gif>
+![](https://imgur.com/YqhPq6O.gif)
 
 Vulnerability #2: Session Hijacking
-![]<https://imgur.com/0L9tA0T.gif>
+![](https://imgur.com/0L9tA0T.gif)
 
 
 ## Green
 
 Vulnerability #1: XSS
-![]<https://imgur.com/elfqUu2.gif>
+![](https://imgur.com/elfqUu2.gif)
 
 Vulnerability #2: User Enumeration
-![]<https://imgur.com/uRCtw1R.gif>
+![](https://imgur.com/uRCtw1R.gif)
 
 
 ## Red
 
 Vulnerability #1: IDOR
-![]<https://imgur.com/cvFEoqF.gif>
+![](https://imgur.com/cvFEoqF.gif)
 
 Vulnerability #2: CSRF
-![]<https://imgur.com/cvFEoqF.gif>
+![](https://imgur.com/cvFEoqF.gif)
 
 ## Notes
 I was completely unable to figure out the CSRF challenge
